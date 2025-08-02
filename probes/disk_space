@@ -1,0 +1,10 @@
+#!/bin/bash
+ function my_name()
+ {
+ 	whoami
+ }
+ 
+ function my_used_disk_space()
+ {
+ 	du -sh ~ | cut -f1
+ }

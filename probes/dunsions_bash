@@ -1,0 +1,11 @@
+#!/bin/bash
+hello() {
+    local this="satya"
+    echo "my name in ide the function varable is $this "
+    echo "$1"
+}
+
+hello 
+echo "outside functions : $this "
+
+specalfile="formother dir"

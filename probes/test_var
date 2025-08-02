@@ -1,0 +1,6 @@
+#!/bin/bash
+source ./dunsions_bash
+echo "expVar = $expVar"
+echo "myVar = $myVar"
+echo "my password = $mypass"
+echo "this from the other dir  $specalfile "

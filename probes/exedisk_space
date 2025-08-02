@@ -1,0 +1,5 @@
+#!/bin/bash
+source disk_space
+echo "My name is $(my_name), I am using $(my_used_disk_space)"
+
+echo "this 
